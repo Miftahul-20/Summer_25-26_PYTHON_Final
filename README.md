@@ -56,10 +56,10 @@ Random Forest achieved the highest accuracy and F1-score among the three models 
 
 This project was developed collaboratively by a team of three students as part of a university Python programming course.
 
-I. Miftahul Jannat- Data processing and cleaning, encoding and feature preparation
+I. Miftahul Jannat- Data pre-processing and cleaning, encoding and feature preparation
 
 II. Arham Jarif Alam- Feature scaling, K-Nearest Neighbors (KNN) model implementation and evaluation
 
-III. Arif Billah Fardin- Support Vector Machine (SVM) model implementation and evaluation, Random Forest (RS) model implementation and evaluation and final analysis
+III. Arif Billah Fardin- Support Vector Machine (SVM) model implementation and evaluation, Random Forest (RF) model implementation and evaluation and final analysis
 
 All team members collaborated on testing, debugging, analysis, and the overall development of the project.
